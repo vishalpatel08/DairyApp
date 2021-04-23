@@ -13,7 +13,7 @@ function APP(){
         <BrowserRouter basename={process.env.PUBLIC_URL}>
         <ThemeProvider theme={theme} >
         <Switch >
-            <Route exact path='/' component={Frontpage}/>
+            <Route exact path='/DairyApp' component={Frontpage}/>
             <Route exact path='/adduser' component={NewUser}/>
             <Route exact path='/removeuser' component={Eh}/>
             <Route exact path='/userdata/:id' component={UserData}/>
