@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/vishalpatel08/DairyApp/static/css/main.177750e2.chunk.css",
+    "main.js": "/vishalpatel08/DairyApp/static/js/main.dddb9f41.chunk.js",
+    "main.js.map": "/vishalpatel08/DairyApp/static/js/main.dddb9f41.chunk.js.map",
+    "runtime-main.js": "/vishalpatel08/DairyApp/static/js/runtime-main.719f114f.js",
+    "runtime-main.js.map": "/vishalpatel08/DairyApp/static/js/runtime-main.719f114f.js.map",
+    "static/css/2.9233ae65.chunk.css": "/vishalpatel08/DairyApp/static/css/2.9233ae65.chunk.css",
+    "static/js/2.1c3b8766.chunk.js": "/vishalpatel08/DairyApp/static/js/2.1c3b8766.chunk.js",
+    "static/js/2.1c3b8766.chunk.js.map": "/vishalpatel08/DairyApp/static/js/2.1c3b8766.chunk.js.map",
+    "index.html": "/vishalpatel08/DairyApp/index.html",
+    "precache-manifest.79a82613f6ac38b1c33dff4604515af6.js": "/vishalpatel08/DairyApp/precache-manifest.79a82613f6ac38b1c33dff4604515af6.js",
+    "service-worker.js": "/vishalpatel08/DairyApp/service-worker.js",
+    "static/css/2.9233ae65.chunk.css.map": "/vishalpatel08/DairyApp/static/css/2.9233ae65.chunk.css.map",
+    "static/css/main.177750e2.chunk.css.map": "/vishalpatel08/DairyApp/static/css/main.177750e2.chunk.css.map",
+    "static/js/2.1c3b8766.chunk.js.LICENSE.txt": "/vishalpatel08/DairyApp/static/js/2.1c3b8766.chunk.js.LICENSE.txt",
+    "static/media/Project1.css": "/vishalpatel08/DairyApp/static/media/Back1.6ee40244.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.719f114f.js",
+    "static/css/2.9233ae65.chunk.css",
+    "static/js/2.1c3b8766.chunk.js",
+    "static/css/main.177750e2.chunk.css",
+    "static/js/main.dddb9f41.chunk.js"
+  ]
+}
