@@ -1,7 +1,11 @@
 {
   "name": "my-app",
   "version": "0.1.0",
+<<<<<<< HEAD
   "homepage": "https://vishalpatel08.github.io/DairyApp",    
+=======
+  "homepage": "https://vishalpatel08.github.io/DairyApp/",
+>>>>>>> a1465fae1d8bc9fe2f26cfe0370c53782682fa1b
   "private": true,
   "dependencies": {
     "@chakra-ui/core": "^0.8.0",
