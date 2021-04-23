@@ -1,0 +1,154 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": [
+    {
+      "name": "typicode"
+    }
+  ],
+  "users": [
+    {
+      "name": "User1",
+      "shift": "1",
+      "date": [
+        {
+          "amount": "2.3",
+          "fat": "4.6"
+        },
+        {
+          "amount": "1",
+          "fat": "7"
+        },
+        {
+          "amount": "2.3",
+          "fat": "4.6"
+        },
+        {
+          "amount": "3.6",
+          "fat": "3.5"
+        },
+        {
+          "amount": "2",
+          "fat": "3"
+        },
+        {
+          "amount": "1",
+          "fat": "2"
+        },
+        {
+          "amount": "10",
+          "fat": "20"
+        },
+        {
+          "amount": "11",
+          "fat": "22"
+        },
+        {
+          "amount": "23",
+          "fat": "12"
+        },
+        {
+          "amount": 0,
+          "fat": 0
+        },
+        {
+          "amount": 0,
+          "fat": 0
+        },
+        {
+          "amount": 0,
+          "fat": 0
+        },
+        {
+          "amount": 0,
+          "fat": 0
+        },
+        {
+          "amount": "12",
+          "fat": "11"
+        },
+        {
+          "amount": "1",
+          "fat": "2"
+        },
+        {
+          "amount": 0,
+          "fat": 0
+        },
+        {
+          "amount": "23",
+          "fat": "5"
+        },
+        {
+          "amount": 0,
+          "fat": 0
+        },
+        {
+          "amount": 0,
+          "fat": 0
+        },
+        {
+          "amount": 0,
+          "fat": 0
+        },
+        {
+          "amount": 0,
+          "fat": 0
+        },
+        {
+          "amount": 0,
+          "fat": 0
+        },
+        {
+          "amount": 0,
+          "fat": 0
+        },
+        {
+          "amount": 0,
+          "fat": 0
+        },
+        {
+          "amount": 0,
+          "fat": 0
+        },
+        {
+          "amount": 0,
+          "fat": 0
+        },
+        {
+          "amount": 0,
+          "fat": 0
+        },
+        {
+          "amount": 0,
+          "fat": 0
+        },
+        {
+          "amount": "1",
+          "fat": "2"
+        },
+        {
+          "amount": 0,
+          "fat": 0
+        },
+        {
+          "amount": 0,
+          "fat": 0
+        }
+      ],
+      "id": 1
+    }
+  ]
+}
