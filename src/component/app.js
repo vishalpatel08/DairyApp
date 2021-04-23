@@ -10,7 +10,7 @@ import NewData from './rw3/AddData'
 
 function APP(){
     return(
-        <BrowserRouter >
+        <BrowserRouter basename={window.location.pathname || ''}>
         <ThemeProvider theme={theme} >
         <Switch >
             <Route exact path='/' component={Frontpage}/>
