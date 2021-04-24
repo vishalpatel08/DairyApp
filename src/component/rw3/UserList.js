@@ -11,12 +11,12 @@ const UserList = () => {
         },[]);
 
         const loadUsers = async () =>{
-            const result = await axios.get("https://my-json-server.typicode.com/vishalpatel08/DairyApp/users"); 
+            const result = await axios.get("https://my-json-server.typicode.com/vishalpatel08/JsonServer/users"); 
             setUser(result.data);
         }
 
         const onDelete = async id =>{
-            await axios.delete(`https://my-json-server.typicode.com/vishalpatel08/DairyApp/users/${id}`);
+            await axios.delete(`https://my-json-server.typicode.com/vishalpatel08/JsonServer/users/${id}`);
             loadUsers();
         }
     return(
