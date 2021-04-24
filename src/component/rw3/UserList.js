@@ -11,12 +11,12 @@ const UserList = () => {
         },[]);
 
         const loadUsers = async () =>{
-            const result = await axios.get("http://localhost:3003/users"); //https://v1.nocodeapi.com/hydra007/google_sheets/MdEyWkdWQAPkphTq?tabId=Sheet2
+            const result = await axios.get("https://my-json-server.typicode.com/vishalpatel08/DairyApp/users"); 
             setUser(result.data);
         }
 
         const onDelete = async id =>{
-            await axios.delete(`http://localhost:3003/users/${id}`);
+            await axios.delete(`https://my-json-server.typicode.com/vishalpatel08/DairyApp/users/${id}`);
             loadUsers();
         }
     return(
