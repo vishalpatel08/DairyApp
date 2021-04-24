@@ -20,7 +20,7 @@ const UserData = () => {
     const{date, name}=users;
 
         const loadUsers = async () =>{
-            const result = await axios.get(`http://localhost:3003/users/${id}`);
+            const result = await axios.get(`https://my-json-server.typicode.com/vishalpatel08/DairyApp/users/${id}`);
             setUsers(result.data);
         }
 
@@ -32,7 +32,7 @@ const UserData = () => {
         }
         const onSubmit = async e =>{
             e.preventDefault();
-            await axios.put(`http://localhost:3003/users/${id}`, users);
+            await axios.put(`https://my-json-server.typicode.com/vishalpatel08/DairyApp/users/${id}`, users);
             loadUsers();
             calC();
             // History.push("/");
@@ -82,8 +82,3 @@ export default UserData
 
 
 
-// {amount:"23",fat:""}, {amount:"",fat:""}, {amount:"",fat:""}, {amount:"",fat:""},{amount:"",fat:""},
-//             {amount:"",fat:""},{amount:"",fat:""},{amount:"",fat:""},{amount:"",fat:""},{amount:"",fat:""},{amount:"",fat:""},{amount:"",fat:""},
-//             {amount:"",fat:""},{amount:"",fat:""},{amount:"",fat:""},{amount:"",fat:""},{amount:"",fat:""},{amount:"",fat:""},{amount:"",fat:""},
-//             {amount:"",fat:""},{amount:"",fat:""},{amount:"",fat:""},{amount:"",fat:""},{amount:"",fat:""},{amount:"",fat:""},{amount:"",fat:""},
-//             {amount:"",fat:""},{amount:"",fat:""},{amount:"",fat:""},{amount:"",fat:""},{amount:"",fat:""}
