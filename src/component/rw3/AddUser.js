@@ -21,7 +21,7 @@ const NewUser = ()=>{
 
     const onSubmit = async e =>{
         e.preventDefault();
-        await axios.post("https://my-json-server.typicode.com/vishalpatel08/DairyApp/users", user);
+        await axios.post("https://my-json-server.typicode.com/vishalpatel08/JsonServer/users", user);
         History.push("/")
     }
     return <div className='d-uselist'>
