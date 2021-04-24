@@ -132,8 +132,8 @@
           "fat": 0
         },
         {
-          "amount": 0,
-          "fat": 0
+          "amount": "23",
+          "fat": "7"
         },
         {
           "amount": "1",
@@ -149,6 +149,268 @@
         }
       ],
       "id": 1
+    },
+    {
+      "name": "Tarun",
+      "shift": "2",
+      "date": [
+        {
+          "amount": "2.3",
+          "fat": "6.5"
+        },
+        {
+          "amount": "1.5",
+          "fat": "7.3"
+        },
+        {
+          "amount": 0,
+          "fat": 0
+        },
+        {
+          "amount": 0,
+          "fat": 0
+        },
+        {
+          "amount": 0,
+          "fat": 0
+        },
+        {
+          "amount": 0,
+          "fat": 0
+        },
+        {
+          "amount": 0,
+          "fat": 0
+        },
+        {
+          "amount": 0,
+          "fat": 0
+        },
+        {
+          "amount": 0,
+          "fat": 0
+        },
+        {
+          "amount": 0,
+          "fat": 0
+        },
+        {
+          "amount": 0,
+          "fat": 0
+        },
+        {
+          "amount": 0,
+          "fat": 0
+        },
+        {
+          "amount": 0,
+          "fat": 0
+        },
+        {
+          "amount": 0,
+          "fat": 0
+        },
+        {
+          "amount": 0,
+          "fat": 0
+        },
+        {
+          "amount": 0,
+          "fat": 0
+        },
+        {
+          "amount": 0,
+          "fat": 0
+        },
+        {
+          "amount": 0,
+          "fat": 0
+        },
+        {
+          "amount": 0,
+          "fat": 0
+        },
+        {
+          "amount": 0,
+          "fat": 0
+        },
+        {
+          "amount": 0,
+          "fat": 0
+        },
+        {
+          "amount": 0,
+          "fat": 0
+        },
+        {
+          "amount": 0,
+          "fat": 0
+        },
+        {
+          "amount": 0,
+          "fat": 0
+        },
+        {
+          "amount": 0,
+          "fat": 0
+        },
+        {
+          "amount": 0,
+          "fat": 0
+        },
+        {
+          "amount": 0,
+          "fat": 0
+        },
+        {
+          "amount": 0,
+          "fat": 0
+        },
+        {
+          "amount": 0,
+          "fat": 0
+        },
+        {
+          "amount": 0,
+          "fat": 0
+        },
+        {
+          "amount": 0,
+          "fat": 0
+        }
+      ],
+      "id": 2
+    },
+    {
+      "name": "Yash",
+      "shift": "1",
+      "date": [
+        {
+          "amount": 0,
+          "fat": 0
+        },
+        {
+          "amount": 0,
+          "fat": 0
+        },
+        {
+          "amount": 0,
+          "fat": 0
+        },
+        {
+          "amount": 0,
+          "fat": 0
+        },
+        {
+          "amount": 0,
+          "fat": 0
+        },
+        {
+          "amount": 0,
+          "fat": 0
+        },
+        {
+          "amount": 0,
+          "fat": 0
+        },
+        {
+          "amount": 0,
+          "fat": 0
+        },
+        {
+          "amount": 0,
+          "fat": 0
+        },
+        {
+          "amount": 0,
+          "fat": 0
+        },
+        {
+          "amount": 0,
+          "fat": 0
+        },
+        {
+          "amount": 0,
+          "fat": 0
+        },
+        {
+          "amount": 0,
+          "fat": 0
+        },
+        {
+          "amount": 0,
+          "fat": 0
+        },
+        {
+          "amount": 0,
+          "fat": 0
+        },
+        {
+          "amount": 0,
+          "fat": 0
+        },
+        {
+          "amount": 0,
+          "fat": 0
+        },
+        {
+          "amount": 0,
+          "fat": 0
+        },
+        {
+          "amount": 0,
+          "fat": 0
+        },
+        {
+          "amount": 0,
+          "fat": 0
+        },
+        {
+          "amount": 0,
+          "fat": 0
+        },
+        {
+          "amount": 0,
+          "fat": 0
+        },
+        {
+          "amount": 0,
+          "fat": 0
+        },
+        {
+          "amount": 0,
+          "fat": 0
+        },
+        {
+          "amount": 0,
+          "fat": 0
+        },
+        {
+          "amount": 0,
+          "fat": 0
+        },
+        {
+          "amount": 0,
+          "fat": 0
+        },
+        {
+          "amount": 0,
+          "fat": 0
+        },
+        {
+          "amount": 0,
+          "fat": 0
+        },
+        {
+          "amount": 0,
+          "fat": 0
+        },
+        {
+          "amount": 0,
+          "fat": 0
+        }
+      ],
+      "id": 3
     }
   ]
 }
