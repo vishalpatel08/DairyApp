@@ -1,4 +1,4 @@
-
+/* 
 #p-button{
     width: 50%;
     margin-left: 25%;
@@ -63,4 +63,199 @@ input[type=radio]{
     border-radius: 3vh;
     background-color:aqua ;
     margin-left: 2%;
+} */
+
+
+
+#p-button{
+    max-width:300px;
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 20%;
+    height: 8vh;
+    border: 2px solid rgb(207, 142, 142);
+    border-radius: 4vh;
+    color: rgb(5, 0, 0);
+  
+}
+
+.f-div1{
+    width: 100%;
+    height: 100vh;
+    padding-top: 10vh;
+    background-image: url("c2.png");
+    background-size: cover;
+}
+
+.f-div{
+    max-width: 500px;
+    width: 80vw;
+    height: 80vh;
+    margin-left: 10%;
+    border-radius: 5vh;
+    opacity: .7;
+    background-image: radial-gradient( circle farthest-corner at 10% 20%,  rgba(97,186,255,1) 0%, rgba(166,239,253,1) 90.1% );
+}
+
+.i-adduser{
+    width:80%;
+    margin-left: 8%;
+}
+
+.user-input{
+    border: solid 1px grey;
+    margin-left: 10vw;
+    width: 80vw;
+    height: 10vh;
+    border-radius: 5vh;
+}
+
+.Newuser{
+    background-color:darkslategrey;
+    width: 100%;
+    height: 15vh;
+    text-align: center;
+    padding-top: 3vh;
+    font-size: 3em;
+    color:#eee;
+    font-family:monospace;
+    border-radius: 5vh;
+}
+
+.A-Label{
+    color: #555;
+    margin-left: 0;
+    font-size: 2em;
+}
+
+input[type=radio]{
+    transform:scale(1.4);
+}
+
+.btn-s{
+    width: 40%;
+    height: 6vh;
+    border-radius: 3vh;
+    background-color:aqua ;
+    margin-left: 2%;
+    margin-top: 2vh;
+}
+
+.ud-list{
+    background-color:#345;
+    top: 0;
+    position: sticky ;
+}
+
+.ul-head{
+    background-color: #345;
+    top: 0;
+    position: sticky ;
+}
+th {
+    text-align: center;
+    color: #eee;
+  }
+  
+  td {
+    text-align: center;
+    
+  }
+  input[type="number"]::placeholder { 
+    text-align: center;
+}
+.ud-out{
+    width: 100vw;
+    padding-left: 20%;
+    padding-right: 20%;
+    background-image: url("c8.png");
+    background-size: cover;
+}
+
+.ud-container{
+    min-width: 600px;
+    background-image: linear-gradient(90deg, #FFFDE4 0%, #B2FEFA 100%);
+}
+
+.ul-container{
+    margin-left: 20%;
+    width: 60vw;
+    background-image: linear-gradient(90deg, #B2FEFA 0%, #FFFDE4 100%);
+}
+td:Link{
+    color:black;
+}
+html{
+    width: 100vw;
+    height: 100vh;
+}
+*{
+    margin: 0;
+    padding: 0;
+   }
+.ul-out{
+    width: 100vw;
+    background-image: url("c8.png");
+    background-size: cover ;
+    min-height: 100vh;
+}
+.ud-total{
+    text-align: center;
+    color: #eee;
+    background-color:#345;
+    width: initial;
+    bottom:0;
+    position:sticky;
+}
+
+.new-u-out{
+    width: 100vw;
+    height: 100vh;
+    padding-top: 5vh;
+    background-image: url("c6.png");
+    background-size: cover ;
+}
+
+.new-u-in{
+    max-width:600px;
+    height: 80vh;
+    padding: 5px;
+    margin-left: 5%;
+    margin-right: 5%;
+    opacity: .8;
+    border-radius: 5vh;
+    background-image: radial-gradient( circle farthest-corner at 10% 20%,  rgba(97,186,255,1) 0%, rgba(166,239,253,1) 90.1% );
+}
+
+.flink1{
+    animation-name: flink1;
+    animation-duration:1.5s;
+    position:relative;
+}
+
+@keyframes flink1 {
+    0% {top: -400px; }
+    100% { top: 0; }
+}
+
+.flink2{
+    animation-name: flink2;
+    animation-duration:1.5s;
+    position:relative;
+}
+
+@keyframes flink2 {
+    0% {bottom: -400px; }
+    100% { bottom: 0;}
+}
+
+
+
+.backbutton{
+    width:40px;
+    height:40px;
+    float: left;
+    background-image: url(./backbutton.png);
+    background-size: cover;
 }
